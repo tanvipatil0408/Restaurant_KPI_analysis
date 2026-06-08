@@ -1,72 +1,13 @@
-# Restaurant_KPI_analysis
-Business Intelligence project using Power BI, DAX, and data visualization to analyze restaurant operations and customer trends.
+# Restaurant Analytics Dashboard
+## Project Overview
+The Restaurant Analytics Dashboard is a Business Intelligence project developed using Power BI to analyze restaurant operations, customer behavior, sales performance, and delivery efficiency. Restaurant businesses generate large volumes of data through customer orders, restaurant activities, ratings, and deliveries, making it challenging to extract meaningful insights. This project was designed to transform raw operational data into interactive visualizations and actionable business insights that support informed decision-making.
 
-* Project Overview
-This initiative is a detailed Restaurant Analytics Dashboard developed with Power BI. The dashboard offers insights into restaurant performance, customer behavior, delivery operations, and business trends via interactive visualizations and KPI tracking.
-The aim of this project is to assist restaurant businesses in making data-driven decisions by evaluating operational efficiency, customer engagement, and overall restaurant performance.
+The dashboard provides a comprehensive view of business performance by combining key metrics related to revenue, orders, customers, restaurants, and delivery operations. Through multiple analytical views, stakeholders can monitor performance trends, identify operational challenges, understand customer preferences, and evaluate restaurant effectiveness.
 
-* Project Objectives
-Evaluate restaurant performance and sales patterns
-Comprehend customer behavior and interaction
-Track delivery and operational effectiveness
-Recognize opportunities for business growth
-Develop interactive dashboards to enhance decision-making
+The analysis revealed that the business generated approximately ₹165 million in revenue from more than 200,000 orders, with an average order value of ₹824.57. The platform served over 20,000 customers and managed performance data across 56,000 restaurants. Customer retention emerged as a significant strength, with repeat customers accounting for 50.28% of the customer base and placing an average of 10 orders per customer, indicating strong engagement and loyalty.
 
-* Tools & Technologies Used
-Power BI
-DAX (Data Analysis Expressions)
-Power Query
-Data Visualization
-Excel / CSV Dataset
+Restaurant performance analysis showed that budget restaurants were the most preferred segment, contributing 59.1% of total orders. The average restaurant rating was 3.70, reflecting generally positive customer experiences across the platform. Revenue and order trends remained relatively stable throughout the analyzed period, demonstrating consistent business activity and demand.
 
-Dashboard Pages
+Operational analysis highlighted opportunities for improvement within the delivery process. Approximately 51.88% of orders were delivered on time, while 48.12% experienced delays. The dashboard also identified nearly 20,000 cancelled orders, providing valuable insights into potential operational bottlenecks and service challenges. These findings can help stakeholders improve delivery performance, reduce cancellations, and enhance overall customer satisfaction.
 
-1. Executive Overview
-Provides a high-level summary of overall business performance using KPIs and interactive charts.
-Key Metrics
-Total Revenue
-Total Orders
-Customer Count
-Restaurant Performance Summary
-
-2. Customer Analytics
-Analyzes customer behavior and engagement trends.
-Insights Included
-Customer preferences
-Order frequency
-Customer segmentation
-Spending patterns
-
-3. Restaurant Performance
-Tracks restaurant-level performance metrics.
-Insights Included
-Top-performing restaurants
-Revenue comparison
-Ratings analysis
-Performance trends
-
-4. Delivery and Operations
-Focuses on operational efficiency and delivery performance.
-Insights Included
-Delivery time analysis
-Operational efficiency
-Order fulfillment tracking
-Delivery performance metrics
-
-5. Advanced Insights
-Provides deeper business analysis and trend identification.
-Insights Included
-Business trends
-Comparative analysis
-Strategic insights
-Data-driven recommendations
-
-6. Restaurant Details
-Contains detailed restaurant-level information and supporting analysis.
-Key Features
-Interactive Power BI Dashboard
-Multiple report pages for detailed analysis
-KPI monitoring
-Dynamic filtering and slicers
-Business intelligence reporting
-Visual storytelling using charts and graphs
+This project helped strengthen my skills in Power BI, DAX, Power Query, data modeling, KPI development, and business analytics. It demonstrates how Business Intelligence tools can be leveraged to convert large datasets into meaningful insights, enabling organizations to monitor performance, optimize operations, and make data-driven business decisions.
